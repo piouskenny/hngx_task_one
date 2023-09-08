@@ -1,0 +1,17 @@
+{
+    "name": "piouskenny/hngx_task_one",
+    "autoload": {
+        "psr-4": {
+            "Piouskenny\\HngxTaskOne\\": "src/",
+            "App\\": "app/",
+            "Classes" : "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "piouskenny",
+            "email": "kehindeu13@gmail.com"
+        }
+    ],
+    "require": {}
+}
