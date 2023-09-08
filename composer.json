@@ -4,7 +4,7 @@
         "psr-4": {
             "Piouskenny\\HngxTaskOne\\": "src/",
             "App\\": "app/",
-            "Classes" : "classes/"
+            "Classes\\": "classes/" 
         }
     },
     "authors": [

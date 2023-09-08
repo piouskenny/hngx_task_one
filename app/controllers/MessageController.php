@@ -19,8 +19,8 @@ class MessageController
                     'current_day' => $currentDay,
                     'utc_time' => $currentUTCTime,
                     'track' => $track,
-                    'github_file_url' => 'https://github.com/username/repo/blob/main/file_name.ext',
-                    'github_repo_url' => 'https://github.com/username/repo',
+                    'github_file_url' => 'https://github.com/piouskenny/hngx_task_one/blob/main/app/controllers/MessageController.php',
+                    'github_repo_url' => 'https://github.com/piouskenny/hngx_task_one',
                     'status_code' => 200
                 ];
 
